@@ -1,0 +1,17 @@
+ 1006  ls
+ 1007  cd ETF_Analayzer
+ 1008  voila etf_analyzer.ipynb
+ 1009  git status
+ 1010  git add .
+ 1011  git status
+ 1012  git commit -m "Initial Commit"
+ 1013  git push
+ 1014  git status
+ 1015  git add .
+ 1016  git commit -m "Revision 1"
+ 1017  git push
+ 1018  voila etf_analyzer.ipynb
+ 1019  git status
+ 1020  git add .
+ 1021  git commit -m "Revision 2"
+ 1022  git push
