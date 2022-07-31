@@ -33,6 +33,13 @@ The etf.db file in the same directory as the application.
 
 To view the application in a web page, use a new Windows GitBash or Mac Terminal app window, navigate to the application directory and enter "Voila etf_analyzer.ipynb".
 
+The images below shows the webpage that will be displayed with the Voilà command.
+
+![etf_analyser_img_1](Images/img1.png)
+![etf_analyser_img_2](Images/img2.png)
+![etf_analyser_img_3](Images/img3.png)
+![etf_analyser_img_4](Images/img4.png)
+
 ---
 
 ## Contributors
